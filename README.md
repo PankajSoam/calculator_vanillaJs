@@ -1,6 +1,6 @@
 # calculator_vanillaJs
 
-About
+About-
 a calculator using html, css, javascript
 performs basic mathematical operations
 
